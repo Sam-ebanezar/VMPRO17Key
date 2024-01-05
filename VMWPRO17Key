@@ -1,6 +1,18 @@
 Install VMWare Workstation PRO 17 (Read it right. PRO!)
 Also, these keys might also work with VMWare Fusion 13 PRO. Just tested it.
 
+Install Process
+To license VMware Workstation:
+
+Launch VMware Workstation.
+Click Help.
+Click Enter Serial Number and enter the license key.
+
+Note: The license key for VMware Workstation 7.x and above is a 25-digit alpha-numeric code that works for both the Windows and Linux versions of VMware Workstation. 
+ 
+Click OK.
+Click Register to register the VMware Workstation or Close to register later.
+
 --checked
 MC60H-DWHD5-H80U9-6V85M-8280D < worked for me!
 4A4RR-813DK-M81A9-4U35H-06KND
